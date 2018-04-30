@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  Assignment# - InClass05
-  Names : Sujanth Babu Guntupalli
-          Mounika Yendluri -->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.princ.inclass05">
 

@@ -1,10 +1,5 @@
 package com.example.princ.inclass05;
 
-/*Assignment# - InClass05
-  Names : Sujanth Babu Guntupalli
-          Mounika Yendluri
-*/
-
 import android.app.Activity;
 import android.app.Application;
 import android.app.ProgressDialog;

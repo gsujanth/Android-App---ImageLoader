@@ -1,8 +1,5 @@
 <resources>
-    <!--
-  Assignment# - InClass05
-  Names : Sujanth Babu Guntupalli
-          Mounika Yendluri -->
+
     <string name="app_name">InClass05</string>
     <string name="Search_KeyWord">Search Keyword</string>
     <string name="Go_Button">Go</string>

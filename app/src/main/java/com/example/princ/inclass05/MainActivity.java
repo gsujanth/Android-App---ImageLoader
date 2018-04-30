@@ -1,8 +1,7 @@
 package com.example.princ.inclass05;
 
-/*Assignment# - InClass05
-  Names : Sujanth Babu Guntupalli
-          Mounika Yendluri
+/*
+  Author : Sujanth Babu Guntupalli
 */
 
 import android.app.ProgressDialog;
